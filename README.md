@@ -48,6 +48,15 @@ Which examples are included?
 3. To solve a series of problems to see how the MLE depends on the number of available measurements.
 4. To solve a series of problems to see how the MLE depends on the H-matrix accuracy (used in the adaptive rank arithmetics).
 
+Where are the data?
+See please file data.tar.gz. It contains 10 measurements of size 2000; 10 replicates of size 4000; ..., 10 replicates of size 128000;
+
+
+How to generate the data?
+See please file loglikelihood_generate_synthetic_data.cc
+This file reads some mesh and generate random values at these points
+
+
 
 
 This code is being provided to you "as is".
