@@ -70,6 +70,12 @@ Can I compute values of the log-likelihood for various cov. lengths \ell=0.1:0.1
 Yes, see please loglikelihood_visual_dependence_on_l.cc
 
 
+How to build plots?
+After your c++ code finished, run appropriate scripts from /matlab_func/
+I use safe_figure function from the sglib library, which you can get here
+https://github.com/ezander/sglib.git (it is needed only for one single function, namelly, safe_figure)
+
+
 This code is being provided to you "as is".
 No warranties or guarantees of any kind. 
 In case you faced a problem, write me an email or open an issue on github.
