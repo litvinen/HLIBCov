@@ -59,6 +59,8 @@ loglikelihood_generate_data.cc
 This file reads some mesh and generate random values at these points.
 
 
+Can I compute values of the log-likelihood for various cov. lengths \ell=0.1:0.1:1?
+Yes, see please loglikelihood_visual_dependence_on_l.cc
 
 
 This code is being provided to you "as is".
