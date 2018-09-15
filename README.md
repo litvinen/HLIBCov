@@ -53,8 +53,10 @@ See please file data.tar.gz. It contains 10 measurements of size 2000; 10 replic
 
 
 How to generate the data?
-See please file loglikelihood_generate_synthetic_data.cc
-This file reads some mesh and generate random values at these points
+See please files 
+loglikelihood_generate_synthetic_data.cc
+loglikelihood_generate_data.cc
+This file reads some mesh and generate random values at these points.
 
 
 
