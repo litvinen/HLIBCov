@@ -49,7 +49,10 @@ Which examples are included?
 4. To solve a series of problems to see how the MLE depends on the H-matrix accuracy (used in the adaptive rank arithmetics).
 
 Where are the data?
-See please file data.tar.gz. It contains 10 measurements of size 2000; 10 replicates of size 4000; ..., 10 replicates of size 128000;
+See please files data.tar.gz. It contains 10 measurements of size 2000; 10 replicates of size 4000; ..., 10 replicates of size 128000;
+See also moisture_data.zip.
+It contains the moisture data sets.
+
 
 
 How to generate the data?
@@ -57,6 +60,7 @@ See please files
 loglikelihood_generate_synthetic_data.cc
 loglikelihood_generate_data.cc
 This file reads some mesh and generate random values at these points.
+
 
 
 
