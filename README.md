@@ -1,7 +1,7 @@
-# HLIBProCov
+# HLIBCov
 
 
-Parallel HLIBProCov code for computing maximum likelihood estimates (MLE).
+Parallel HLIBCov code for computing maximum likelihood estimates (MLE).
 The theory of this work is described here
 1. Alexander Litvinenko, Ying Sun, Marc G. Genton, David Keyes, Likelihood Approximation With Hierarchical Matrices For Large Spatial Datasets, 2017, https://arxiv.org/abs/1709.04419
 2. Alexander Litvinenko, HLIBCov: Parallel Hierarchical Matrix Approximation of Large Covariance Matrices and Likelihoods with Applications in Parameter Identification, 2017, https://arxiv.org/abs/1709.08625
