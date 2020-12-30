@@ -4,8 +4,7 @@
 Parallel HLIBCov code for computing maximum likelihood estimates (MLE).
 The theory of this work is described here
 1. Alexander Litvinenko, Ying Sun, Marc G. Genton, and David E. Keyes.  Likelihood approximation with hierarchical matrices for large spatial datasets, Computational Statistics & Data Analysis,137:pp. 115-132, 2019
-2. Alexander Litvinenko, Ying Sun, Marc G. Genton, David Keyes, Likelihood Approximation With Hierarchical Matrices For Large Spatial Datasets, 2017, https://arxiv.org/abs/1709.04419
-3. Alexander Litvinenko, HLIBCov: Parallel Hierarchical Matrix Approximation of Large Covariance Matrices and Likelihoods with Applications in Parameter Identification, 2017, https://arxiv.org/abs/1709.08625
+2. A. Litvinenko, R. Kriemann, M.G. Genton, Y. Sun, D.E. Keyes; HLIBCov: Parallel hierarchical matrix approximation of large covariance matrices and likelihoods with applications in parameter identification  MethodsX 7, 100600, 2020 (https://arxiv.org/abs/1709.08625)
 
 
 
