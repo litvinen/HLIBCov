@@ -1,10 +1,12 @@
 # HLIBCov
 
-!!!!! Attention !!!!
+!!!!! Attention !!!!  
+
 We developed the new version https://github.com/litvinen/large_random_fields.git
 It works well with the latest version (2.9.) of HLIBPro. 
 
 The version below works only with HLIBPro 2.6.1 and requires some modifications to work with HLIBPro of later versions 2.7, 2.8 and 2.9.
+
 !!!!! END of Attention !!!!
 
 Parallel HLIBCov code for computing maximum likelihood estimates (MLE).
